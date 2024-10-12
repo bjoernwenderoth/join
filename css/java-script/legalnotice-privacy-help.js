@@ -1,0 +1,4 @@
+
+function goToLastPage() {
+    history.back();
+}

@@ -1,0 +1,6 @@
+.header-sticky {
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+
